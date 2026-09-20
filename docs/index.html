@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-lgsBiW1UW0Vuhj5JsHd6MVSN8gRwBA8wp5U32dcraDs='; style-src 'sha256-2cGtWJUHfOMXky/Yu1h6l7NDpqMVa0MyklhgPs5H+Fs='; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Galatasaray Maç Takvimi</title>
+<meta name="description" content="Galatasaray erkek futbol ve basketbol maçları için her gün otomatik güncellenen takvim aboneliği.">
+<meta property="og:title" content="Galatasaray Maç Takvimi">
+<meta property="og:description" content="Galatasaray erkek futbol ve basketbol maçları için her gün otomatik güncellenen takvim aboneliği.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="tr_TR">
+<link rel="icon" href="data:,">
+<style>
+:root{--bg:#fff;--fg:#111;--muted:#666;--line:#e3e3e3;--card:#f7f7f7;--btn-bg:#111;--btn-fg:#fff;--warn:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#0e0e0e;--fg:#f2f2f2;--muted:#a0a0a0;--line:#2a2a2a;--card:#171717;--btn-bg:#f2f2f2;--btn-fg:#111;--warn:#ff8a80}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 16px 48px}
+h1{font-size:1.8rem;margin:0 0 .4rem}
+h2{font-size:1.15rem;margin:2rem 0 .6rem}
+h3{margin:0;font-size:1.05rem}
+a{color:inherit}
+.feed{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:14px 16px;margin:10px 0}
+.feed p{margin:.15rem 0 .7rem;color:var(--muted)}
+.btn{display:inline-block;padding:9px 14px;border-radius:10px;background:var(--btn-bg);color:var(--btn-fg);text-decoration:none;font-weight:600}
+.dl{margin-left:12px}
+a:focus-visible{outline:3px solid #888;outline-offset:2px}
+code{display:block;margin-top:.7rem;padding:8px 10px;border-radius:8px;background:var(--bg);border:1px solid var(--line);font-size:.85rem;word-break:break-all}
+ul.matches{list-style:none;margin:0;padding:0}
+.matches li{padding:10px 0;border-bottom:1px solid var(--line)}
+.when{font-weight:600}
+.teams{font-size:1.05rem}
+.meta,.muted{color:var(--muted);font-size:.9rem}
+.warn{margin:1rem 0;padding:10px 12px;border:1px solid var(--warn);border-radius:10px;color:var(--warn);font-weight:600}
+.donate-row{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+.donate-row img{width:176px;height:176px;background:#fff;border-radius:8px}
+.donate-row div{flex:1;min-width:220px}
+button.btn{border:0;font:inherit;font-weight:600;cursor:pointer;margin-top:.7rem}
+.feed .note{margin:1rem 0 0;font-size:.9rem}
+</style>
+</head>
+<body>
+<main>
+<h1>Galatasaray Maç Takvimi</h1>
+<p>Erkek A takım futbol ve basketbol maçları. Takvim her gün otomatik güncellenir; bir kez abone olmanız yeterli.</p>
+<p id="stale" class="warn" role="alert" hidden></p>
+<h2>Takvime abone ol</h2>
+<p class="muted">Apple Takvim için düğmeyi kullanın. Google Takvim ve Outlook'ta "URL ile takvim ekle" seçeneğine aşağıdaki bağlantıyı yapıştırın.</p>
+<section class="feed"><h3>Tüm maçlar</h3><p>Galatasaray erkek futbol ve basketbol takımlarının maçları</p><a class="btn" data-feed="galatasaray-all.ics" href="galatasaray-all.ics">Takvime abone ol</a><a class="dl" href="galatasaray-all.ics" download>.ics indir</a><code data-url="galatasaray-all.ics">galatasaray-all.ics</code></section>
+<section class="feed"><h3>Futbol</h3><p>Galatasaray erkek futbol takımının maçları</p><a class="btn" data-feed="galatasaray-football.ics" href="galatasaray-football.ics">Takvime abone ol</a><a class="dl" href="galatasaray-football.ics" download>.ics indir</a><code data-url="galatasaray-football.ics">galatasaray-football.ics</code></section>
+<section class="feed"><h3>Basketbol</h3><p>Galatasaray erkek basketbol takımının maçları</p><a class="btn" data-feed="galatasaray-basketball.ics" href="galatasaray-basketball.ics">Takvime abone ol</a><a class="dl" href="galatasaray-basketball.ics" download>.ics indir</a><code data-url="galatasaray-basketball.ics">galatasaray-basketball.ics</code></section>
+<h2>Sıradaki maçlar</h2>
+<ul class="matches">
+<li><div class="when">Cumartesi 26.09.2026 · 18:00</div><div class="teams">Galatasaray - Çayırova Belediyesi</div><div class="meta">Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 1. Hafta · Sinan Erdem Spor Salonu, İstanbul</div></li>
+<li><div class="when">Cuma 02.10.2026 · 19:00</div><div class="teams">Karşıyaka - Galatasaray</div><div class="meta">Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 2. Hafta · Mustafa Kemal Atatürk Karşıyaka Spor Salonu, İzmir</div></li>
+<li><div class="when">Cuma 09.10.2026 · 20:00</div><div class="teams">Galatasaray - Kasımpaşa</div><div class="meta">Futbol · Trendyol Süper Lig · 7. Hafta · Ali Sami Yen Spor Kompleksi Rams Park, İstanbul</div></li>
+<li><div class="when">Pazartesi 12.10.2026 · 19:00</div><div class="teams">Galatasaray - Bursaspor Basketbol</div><div class="meta">Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 3. Hafta · Sinan Erdem Spor Salonu, İstanbul</div></li>
+<li><div class="when">Salı 13.10.2026 · 22:00</div><div class="teams">Galatasaray - Barcelona</div><div class="meta">Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 2. Hafta · Ali Sami Yen Spor Kompleksi, Istanbul</div></li>
+<li><div class="when">Cumartesi 17.10.2026 · 16:00</div><div class="teams">Gençlerbirliği - Galatasaray</div><div class="meta">Futbol · Trendyol Süper Lig · 8. Hafta · Eryaman Stadyumu</div></li>
+<li><div class="when">Pazar 18.10.2026 · 20:30</div><div class="teams">Beşiktaş - Galatasaray</div><div class="meta">Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 4. Hafta · Turkcell Basketbol Gelişim Merkezi, İstanbul</div></li>
+<li><div class="when">Çarşamba 21.10.2026 · 19:45</div><div class="teams">Lille - Galatasaray</div><div class="meta">Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 3. Hafta · Stade Pierre Mauroy, Villeneuve d&#x27;Ascq</div></li>
+<li><div class="when">Pazar 25.10.2026 · 20:30</div><div class="teams">Galatasaray - Pizzabulls Bordo Bandırma</div><div class="meta">Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 5. Hafta · Sinan Erdem Spor Salonu, İstanbul</div></li>
+<li><div class="when">Pazartesi 26.10.2026 · 21:30</div><div class="teams">Galatasaray - Fenerbahçe</div><div class="meta">Futbol · Trendyol Süper Lig · 9. Hafta · Ali Sami Yen Spor Kompleksi Rams Park, İstanbul</div></li>
+</ul>
+<p class="muted">Saati henüz açıklanmamış maçlar, yanlış bir gece yarısı saati yazılmasın diye tüm gün etkinliği olarak gösterilir; saat kesinleşince aynı etkinlik güncellenir.</p>
+<h2 id="bagis">Projeyi destekle</h2>
+<p class="muted">Takvim ücretsizdir ve öyle kalacak. Beğendiyseniz isteğe bağlı olarak USDT (Tether) ile destek olabilirsiniz; herhangi bir borsa ya da cüzdandan gönderebilirsiniz.</p>
+<section class="feed">
+<div class="donate-row">
+<img src="usdt-bsc.svg" alt="USDT (BSC) adresi için QR kod" width="176" height="176">
+<div>
+<p><strong>Coin:</strong> USDT (Tether)<br><strong>Ağ:</strong> BNB Smart Chain (BSC / BEP-20)</p>
+<code id="usdt-address">0x315f79cb95f784c18387c3009798d1a617dac8b2</code>
+<button type="button" class="btn" id="copy-address">Adresi kopyala</button>
+</div>
+</div>
+<p class="note">⚠ Yalnızca USDT'yi ve yalnızca <strong>BSC (BEP-20)</strong> ağı üzerinden gönderin. Başka bir ağdan ya da başka bir coin ile gönderilen tutarlar geri alınamaz.</p>
+</section>
+<p class="muted">Son kontrol: <span id="checked">yükleniyor…</span></p>
+<p class="muted">Kaynaklar: TFF, UEFA ve TBF. <a id="repo" rel="noopener noreferrer" hidden>Kaynak kod (GitHub)</a></p>
+</main>
+<script>
+for (const a of document.querySelectorAll('[data-feed]')) {
+  const url = new URL(a.dataset.feed, location.href);
+  a.href = 'webcal://' + url.host + url.pathname;
+}
+for (const c of document.querySelectorAll('[data-url]')) {
+  c.textContent = new URL(c.dataset.url, location.href).href;
+}
+const checked = document.getElementById('checked');
+fetch('last_check.txt', { cache: 'no-store' })
+  .then(r => (r.ok ? r.text() : Promise.reject(new Error(r.status))))
+  .then(text => {
+    checked.textContent = text.trim();
+    const m = /^(\d{2})\.(\d{2})\.(\d{4}) (\d{2}):(\d{2})/.exec(text.trim());
+    if (!m) return;
+    const when = Date.UTC(+m[3], +m[2] - 1, +m[1], +m[4] - 3, +m[5]); // TSİ = UTC+3
+    const hours = (Date.now() - when) / 36e5;
+    if (hours > 36) {
+      const warn = document.getElementById('stale');
+      warn.textContent = '\u26a0 Son kontrol ' + Math.floor(hours / 24) + ' g\u00fcn \u00f6nce yap\u0131ld\u0131; ' +
+        'otomatik g\u00fcncelleme \u00e7al\u0131\u015fm\u0131yor olabilir, takvim g\u00fcncel olmayabilir.';
+      warn.hidden = false;
+    }
+  })
+  .catch(() => { checked.textContent = 'bilinmiyor'; });
+const copyButton = document.getElementById('copy-address');
+if (copyButton) {
+  copyButton.addEventListener('click', () => {
+    const address = document.getElementById('usdt-address').textContent.trim();
+    navigator.clipboard.writeText(address).then(
+      () => { copyButton.textContent = 'Kopyaland\u0131'; },
+      () => { copyButton.textContent = 'Kopyalanamad\u0131; adresi se\u00e7ip kopyalay\u0131n'; }
+    );
+  });
+}
+if (location.hostname.endsWith('.github.io')) {
+  const owner = location.hostname.split('.')[0];
+  const repo = location.pathname.split('/').filter(Boolean)[0];
+  if (repo) {
+    const link = document.getElementById('repo');
+    link.href = 'https://github.com/' + owner + '/' + repo;
+    link.hidden = false;
+  }
+}
+</script>
+</body>
+</html>

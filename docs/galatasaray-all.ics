@@ -1,0 +1,1016 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//galatasaray-calendar//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Galatasaray Tüm Maçlar
+X-WR-CALNAME:Galatasaray Tüm Maçlar
+X-WR-CALDESC:Galatasaray erkek futbol ve basketbol takımlarının maçlar
+ ı
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9924da1ba826989f8082ae1f@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Arca Çorum FK
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20260814T183000Z
+DTEND:20260814T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 1. Hafta\nSonuç: 2-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317790
+END:VEVENT
+BEGIN:VEVENT
+UID:46744aa7097a809954221ede@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Erzurumspor FK - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20260821T183000Z
+DTEND:20260821T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 2. Hafta\nSonuç: 0-4\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317801
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc8371ca0f01650542cac91@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Göztepe
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20260829T183300Z
+DTEND:20260829T204800Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 3. Hafta\nSonuç: 3-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317808
+END:VEVENT
+BEGIN:VEVENT
+UID:24192f6de6a8c76434b92878@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:İstanbul Başakşehir FK - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20260904T170000Z
+DTEND:20260904T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 4. Hafta\nSonuç: 2-3\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317813
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5237ad73f2da0b8e9eae1b@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Sporting CP - Galatasaray
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260909T190000Z
+DTEND:20260909T211500Z
+STATUS:CONFIRMED
+LOCATION:Estádio José Alvalade\, Lisbon
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 1. Hafta\nSon
+ uç: 3-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:89497bdbf31ef42db985d912@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Kocaelispor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20260913T170000Z
+DTEND:20260913T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 5. Hafta\nSonuç: 1-0\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317826
+END:VEVENT
+BEGIN:VEVENT
+UID:02986f2d0d367c337c2a008b@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Trabzonspor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20260919T170000Z
+DTEND:20260919T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 6. Hafta\nSonuç: 4-0\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317829
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd58f0d73aeaab0790c2a60@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Çayırova Belediyesi
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+STATUS:CONFIRMED
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 1. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:e780a23ab4228ea8898609f2@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Karşıyaka - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+STATUS:CONFIRMED
+LOCATION:Mustafa Kemal Atatürk Karşıyaka Spor Salonu\, İzmir
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 2. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:190c74b37d5cbe463a31c835@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Kasımpaşa
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261009T170000Z
+DTEND:20261009T191500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 7. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317844
+END:VEVENT
+BEGIN:VEVENT
+UID:a349ea6804b4466b1b70a48a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Bursaspor Basketbol
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+STATUS:CONFIRMED
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 3. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:0d47a8f54136faadbc66e507@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Barcelona
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261013T190000Z
+DTEND:20261013T211500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 2. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:f44a67ba72b7cdf34fb8d3e8@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Gençlerbirliği - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261017T130000Z
+DTEND:20261017T151500Z
+STATUS:CONFIRMED
+LOCATION:Eryaman Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 8. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317851
+END:VEVENT
+BEGIN:VEVENT
+UID:51ea79fd503501f397d2360a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Beşiktaş - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261018T173000Z
+DTEND:20261018T193000Z
+STATUS:CONFIRMED
+LOCATION:Turkcell Basketbol Gelişim Merkezi\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 4. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:bb42d9a6695e99f2007ea64a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Lille - Galatasaray
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261021T164500Z
+DTEND:20261021T190000Z
+STATUS:CONFIRMED
+LOCATION:Stade Pierre Mauroy\, Villeneuve d'Ascq
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 3. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:d9eee1c860f41a47d7eef8eb@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Pizzabulls Bordo Bandırma
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261025T173000Z
+DTEND:20261025T193000Z
+STATUS:CONFIRMED
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 5. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:11c4eafcaea0add0de5e2c47@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Fenerbahçe
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261026T183000Z
+DTEND:20261026T204500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 9. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317862
+END:VEVENT
+BEGIN:VEVENT
+UID:1adfb2a28c1164bc31c8ebd9@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Tümosan Konyaspor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261030T170000Z
+DTEND:20261030T191500Z
+STATUS:CONFIRMED
+LOCATION:Medaş Konya Büyükşehir Stadyumu\, Konya
+DESCRIPTION:Futbol · Trendyol Süper Lig · 10. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317870
+END:VEVENT
+BEGIN:VEVENT
+UID:d3898f55bd20e46c228247ff@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Yukatel Denizli Basket - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Pamukkale Üniversitesi Spor Salonu\, Denizli
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 6. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:22962ae196c0b2fb25f78604@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Stuttgart
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261103T174500Z
+DTEND:20261103T200000Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 4. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:3ccafa4088d0fbe69677e5d7@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Esenler Erokspor
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 7. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:268c2e68a692985e368cabec@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Amed Sportif Faaliyetler
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261107T160000Z
+DTEND:20261107T181500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317880
+END:VEVENT
+BEGIN:VEVENT
+UID:fb598619dd7c3178ffb85c61@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Biotekno Körfez Basket - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Şehit Polis Recep Topaloğlu Spor Salonu\, Kocaeli
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8ff50460e61f4012c3b6ae@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Aliağa Petkim Spor
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:da5f98fb5c766d32e5d8e4f8@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Samsunspor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261121T130000Z
+DTEND:20261121T151500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317889
+END:VEVENT
+BEGIN:VEVENT
+UID:cb3d5699c7c81af55c8e341e@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Aston Villa
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261124T174500Z
+DTEND:20261124T200000Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:d29bc510166ad08333ae9859@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Beşiktaş - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261130T180000Z
+DTEND:20261130T201500Z
+STATUS:CONFIRMED
+LOCATION:Beşiktaş Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 13. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317899
+END:VEVENT
+BEGIN:VEVENT
+UID:026895cc10d1512646eac728@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Çaykur Rizespor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261204T170000Z
+DTEND:20261204T191500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 14. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317907
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc946c2b790c7c8a8ca99b3@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Tofaş - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Tofaş Spor Salonu\, Bursa
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 10. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:022aec8cf8717419ce337763@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:AEK Athens - Galatasaray
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261208T200000Z
+DTEND:20261208T221500Z
+STATUS:CONFIRMED
+LOCATION:AEK Arena\, Athens
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 6. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:745bdc625d3937071ff96faf@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Anadolu Efes
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 11. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:334d07ba208faa5ba89ee88e@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Eyüpspor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261212T160000Z
+DTEND:20261212T181500Z
+STATUS:CONFIRMED
+LOCATION:Esenyurt Necmi Kadıoğlu Stadı\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 15. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317911
+END:VEVENT
+BEGIN:VEVENT
+UID:782dd3d246f0f45ff75cb4f5@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Trabzonspor - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Hayri Gür Spor Salonu\, Trabzon
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 12. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:a259be2a7f919157dd60e95d@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Corendon Alanyaspor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART:20261219T160000Z
+DTEND:20261219T181500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 16. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317925
+END:VEVENT
+BEGIN:VEVENT
+UID:bad89fd8c27961da408d1c13@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Türk Telekom
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 13. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:c08cceaa7d53532de8e151b3@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Fenerbahçe Tarfin - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 14. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee0e9279bdb0fd364f4b05e@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Bahçeşehir Koleji - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 15. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d374f0661c1a1a8f3e05e9@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Çayırova Belediyesi - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Atanmadı
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 16. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2cc9db90d1f7d9dddd123a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Gaziantep Futbol Kulübü - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Gaziantep Stadyumu\, Gaziantep
+DESCRIPTION:Futbol · Trendyol Süper Lig · 17. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317928
+END:VEVENT
+BEGIN:VEVENT
+UID:75ef34b8bffd838ec6368642@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Feyenoord
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20270119T174500Z
+DTEND:20270119T200000Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 7. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:e0830b9e2df25e24be492bf7@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Karşıyaka
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 17. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:f81059ed5f591a6eaff0cb92@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Arca Çorum FK - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Çorum Şehir Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 18. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317943
+END:VEVENT
+BEGIN:VEVENT
+UID:18be00645df2e3c5abb68d7f@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Paris - Galatasaray
+CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20270127T200000Z
+DTEND:20270127T221500Z
+STATUS:CONFIRMED
+LOCATION:Parc des Princes\, Paris
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 8. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:27b33f8ae565462738bb2a83@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Bursaspor Basketbol - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Tofaş Spor Salonu\, Bursa
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 18. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:b990ecf46dd8c0b912b98c9e@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Erzurumspor FK
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 19. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317954
+END:VEVENT
+BEGIN:VEVENT
+UID:98ff170eab3858d02f5fba5a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Beşiktaş
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 19. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:c4107e329e5a2ff5675edc3a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Göztepe - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Isonem Park Gürsel Aksel Spor Ve Sağlıklı Yaşam M.
+DESCRIPTION:Futbol · Trendyol Süper Lig · 20. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317961
+END:VEVENT
+BEGIN:VEVENT
+UID:018fdc5dec8f8eed95659211@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Pizzabulls Bordo Bandırma - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Bandırma 17 Eylül Üniversitesi Spor Salonu\, Balıkesir
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 20. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8718ba764d2d3733a748a7@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - İstanbul Başakşehir FK
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 21. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317966
+END:VEVENT
+BEGIN:VEVENT
+UID:852d0d50e60e6b41720f803a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Kocaelispor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Kocaeli Stadyumu\, Kocaeli
+DESCRIPTION:Futbol · Trendyol Süper Lig · 22. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317979
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bc4e73065c06b392b6d2cf@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Trabzonspor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 23. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317982
+END:VEVENT
+BEGIN:VEVENT
+UID:036ed67815bca098986eaced@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Yukatel Denizli Basket
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 21. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:de92249c7f64ea4d48204d40@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Kasımpaşa - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Recep Tayyip Erdoğan Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 24. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317997
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef8ff1fdd8676d72f46b76f@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Esenler Erokspor - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Beşiktaş Akatlar Spor Kompleksi\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 22. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:008dafde40ec836e479f253c@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Gençlerbirliği
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 25. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318004
+END:VEVENT
+BEGIN:VEVENT
+UID:d39a365e30a37e9a625cec84@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Biotekno Körfez Basket
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 23. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:ce060871d9eb8be07a8fec6d@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Fenerbahçe - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 26. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318015
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7fa7cf2616ca1a8402de9a@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Aliağa Petkim Spor - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Enka Spor Salonu\, İzmir
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 24. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:991dfbfef1ad602970fe8bd8@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Tofaş
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 25. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:95fbf307e21a10748c20bf93@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Tümosan Konyaspor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 27. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318023
+END:VEVENT
+BEGIN:VEVENT
+UID:6612112eceec419478f14f21@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Anadolu Efes - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Turkcell Basketbol Gelişim Merkezi\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 26. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:ad297b0ac40683f3c825f446@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Amed Sportif Faaliyetler - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Diyarbakır Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 28. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318033
+END:VEVENT
+BEGIN:VEVENT
+UID:287a4ba3f35fe778a5dfd4ee@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Trabzonspor
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 27. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:17c3eaa7648f6cfc6ac48abc@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Samsunspor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Samsun Yeni 19 Mayıs\, Samsun
+DESCRIPTION:Futbol · Trendyol Süper Lig · 29. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318042
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cfcfcd3fe3c68e6e0ec701@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Türk Telekom - Galatasaray
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ankara Spor Salonu\, Ankara
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 28. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe0bad07adfc4c9726c64f4@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Beşiktaş
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 30. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318052
+END:VEVENT
+BEGIN:VEVENT
+UID:b661268e0ddcb1491a0337ed@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Fenerbahçe Tarfin
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 29. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:851658c8076a4e472a95dc18@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Çaykur Rizespor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Çaykur Didi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 31. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318060
+END:VEVENT
+BEGIN:VEVENT
+UID:fdc39c7068694d8fc655a513@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Bahçeşehir Koleji
+CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 30. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:12d56a92f80514b6bbc1797d@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Eyüpspor
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 32. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318064
+END:VEVENT
+BEGIN:VEVENT
+UID:e6478017df77e12ae3a297ae@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Corendon Alanyaspor - Galatasaray
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Alanya Oba Stadyumu\, Antalya
+DESCRIPTION:Futbol · Trendyol Süper Lig · 33. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318078
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02cb52c4bb0968d1c99d74@galatasaray-calendar
+DTSTAMP:20260920T145540Z
+SUMMARY:Galatasaray - Gaziantep Futbol Kulübü
+CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 34. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318081
+END:VEVENT
+END:VCALENDAR
