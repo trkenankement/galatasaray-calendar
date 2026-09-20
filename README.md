@@ -16,11 +16,21 @@ sonuçlar takviminize kendiliğinden yansır.
 
 Web sayfası: **<https://trkenankement.github.io/galatasaray-calendar/>**
 
-| Takvim | Apple Takvim | Google Takvim / Outlook (URL ile ekle) |
-| --- | --- | --- |
-| Tüm maçlar | [webcal://…/galatasaray-all.ics](webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-all.ics) | `https://trkenankement.github.io/galatasaray-calendar/galatasaray-all.ics` |
-| Futbol | [webcal://…/galatasaray-football.ics](webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-football.ics) | `https://trkenankement.github.io/galatasaray-calendar/galatasaray-football.ics` |
-| Basketbol | [webcal://…/galatasaray-basketball.ics](webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-basketball.ics) | `https://trkenankement.github.io/galatasaray-calendar/galatasaray-basketball.ics` |
+| Takvim | Apple Takvim (iPhone, iPad, Mac) | Google Takvim (Android) | Outlook ve diğerleri (URL ile ekle) |
+| --- | --- | --- | --- |
+| Tüm maçlar | [webcal://…/galatasaray-all.ics](webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-all.ics) | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-all.ics) | `https://trkenankement.github.io/galatasaray-calendar/galatasaray-all.ics` |
+| Futbol | [webcal://…/galatasaray-football.ics](webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-football.ics) | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-football.ics) | `https://trkenankement.github.io/galatasaray-calendar/galatasaray-football.ics` |
+| Basketbol | [webcal://…/galatasaray-basketball.ics](webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-basketball.ics) | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/galatasaray-calendar/galatasaray-basketball.ics) | `https://trkenankement.github.io/galatasaray-calendar/galatasaray-basketball.ics` |
+
+Web sayfasında her takvim için **Apple Takvim** ve **Google Takvim** düğmeleri ile ayrı bir **.ics indir** bağlantısı bulunur.
+
+> **Android:** Google Takvim uygulaması telefonda URL ile abone olmayı desteklemez. Bu yüzden Google Takvim
+> bağlantısı, ekleme onayının yapıldığı Google Takvim web sayfasını açar; telefonda açılmazsa tarayıcıda
+> "Masaüstü sitesi"ni seçin ya da bağlantıyı bilgisayarda açın. Eklenen takvim telefona kendiliğinden gelir.
+> Yalnızca telefonla tek dokunuşta abone olmak isteyenler için açık kaynaklı [ICSx⁵](https://icsx5.bitfire.at/)
+> uygulaması `webcal://` bağlantılarını açabilir (F-Droid'de ücretsiz, Google Play'de küçük bir ücretle).
+>
+> **.ics indir:** dosyayı indirip açarsanız maçlar yalnızca bir kez eklenir, sonradan güncellenmez.
 
 > Veriler günde bir kez, gece 00:27'de (Türkiye saati) kaynaklardan okunur. Takvim uygulamaları yayınlanan
 > dosyayı kendi aralığında (Google genellikle 12–24 saat, Apple için akışta 12 saat önerilir) yeniden indirir;
