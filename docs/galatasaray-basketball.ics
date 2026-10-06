@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ebd58f0d73aeaab0790c2a60@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Çayırova Belediyesi
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20260926T150000Z
@@ -24,7 +24,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 1. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:e780a23ab4228ea8898609f2@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Karşıyaka - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261002T160000Z
@@ -37,7 +37,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 2. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:a349ea6804b4466b1b70a48a@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Bursaspor Basketbol
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261012T160000Z
@@ -49,7 +49,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 3. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:51ea79fd503501f397d2360a@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Beşiktaş - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261018T173000Z
@@ -61,7 +61,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 4. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:d9eee1c860f41a47d7eef8eb@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Pizzabulls Bordo Bandırma
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261025T173000Z
@@ -73,67 +73,55 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 5. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:d3898f55bd20e46c228247ff@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Yukatel Denizli Basket - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+STATUS:CONFIRMED
 LOCATION:Pamukkale Üniversitesi Spor Salonu\, Denizli
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 6. Hafta
- \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
- görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
- F (Türkiye Basketbol Federasyonu)
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:3ccafa4088d0fbe69677e5d7@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Esenler Erokspor
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+DTSTART:20261108T150000Z
+DTEND:20261108T170000Z
+STATUS:CONFIRMED
 LOCATION:Sinan Erdem Spor Salonu\, İstanbul
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 7. Hafta
- \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
- görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
- F (Türkiye Basketbol Federasyonu)
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:fb598619dd7c3178ffb85c61@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Biotekno Körfez Basket - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+STATUS:CONFIRMED
 LOCATION:Şehit Polis Recep Topaloğlu Spor Salonu\, Kocaeli
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
- \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
- görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
- F (Türkiye Basketbol Federasyonu)
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:9a8ff50460e61f4012c3b6ae@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Aliağa Petkim Spor
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
+STATUS:CONFIRMED
 LOCATION:Sinan Erdem Spor Salonu\, İstanbul
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
- \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
- görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
- F (Türkiye Basketbol Federasyonu)
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:5fc946c2b790c7c8a8ca99b3@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Tofaş - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261205
@@ -148,7 +136,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 10. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:745bdc625d3937071ff96faf@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Anadolu Efes
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261212
@@ -163,7 +151,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 11. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:782dd3d246f0f45ff75cb4f5@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Trabzonspor - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261219
@@ -178,7 +166,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 12. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:bad89fd8c27961da408d1c13@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Türk Telekom
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261226
@@ -193,7 +181,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 13. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:c08cceaa7d53532de8e151b3@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Fenerbahçe Tarfin - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270102
@@ -208,7 +196,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 14. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee0e9279bdb0fd364f4b05e@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Bahçeşehir Koleji - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270109
@@ -223,7 +211,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 15. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:a9d374f0661c1a1a8f3e05e9@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Çayırova Belediyesi - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270116
@@ -238,7 +226,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 16. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:e0830b9e2df25e24be492bf7@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Karşıyaka
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270123
@@ -253,7 +241,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 17. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:27b33f8ae565462738bb2a83@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Bursaspor Basketbol - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270130
@@ -268,7 +256,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 18. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:98ff170eab3858d02f5fba5a@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Beşiktaş
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270206
@@ -283,7 +271,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 19. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:018fdc5dec8f8eed95659211@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Pizzabulls Bordo Bandırma - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270213
@@ -298,7 +286,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 20. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:036ed67815bca098986eaced@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Yukatel Denizli Basket
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270306
@@ -313,7 +301,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 21. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:0ef8ff1fdd8676d72f46b76f@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Esenler Erokspor - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270313
@@ -328,7 +316,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 22. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:d39a365e30a37e9a625cec84@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Biotekno Körfez Basket
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270320
@@ -343,7 +331,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 23. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:ee7fa7cf2616ca1a8402de9a@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Aliağa Petkim Spor - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270327
@@ -358,7 +346,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 24. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:991dfbfef1ad602970fe8bd8@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Tofaş
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270403
@@ -373,7 +361,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 25. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:6612112eceec419478f14f21@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Anadolu Efes - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270410
@@ -388,7 +376,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 26. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:287a4ba3f35fe778a5dfd4ee@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Trabzonspor
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270417
@@ -403,7 +391,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 27. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:b5cfcfcd3fe3c68e6e0ec701@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Türk Telekom - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270424
@@ -418,7 +406,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 28. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:b661268e0ddcb1491a0337ed@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Fenerbahçe Tarfin
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270501
@@ -433,7 +421,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 29. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:fdc39c7068694d8fc655a513@galatasaray-calendar
-DTSTAMP:20261003T003627Z
+DTSTAMP:20261006T014932Z
 SUMMARY:Galatasaray - Bahçeşehir Koleji
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270508
