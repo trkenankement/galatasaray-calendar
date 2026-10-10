@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:9924da1ba826989f8082ae1f@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Arca Çorum FK
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20260814T183000Z
@@ -23,7 +23,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 1. Hafta\nSonuç: 2-2\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:46744aa7097a809954221ede@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Erzurumspor FK - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20260821T183000Z
@@ -35,7 +35,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 2. Hafta\nSonuç: 0-4\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:bdc8371ca0f01650542cac91@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Göztepe
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20260829T183300Z
@@ -47,7 +47,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 3. Hafta\nSonuç: 3-2\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:24192f6de6a8c76434b92878@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:İstanbul Başakşehir FK - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20260904T170000Z
@@ -59,7 +59,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 4. Hafta\nSonuç: 2-3\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:2b5237ad73f2da0b8e9eae1b@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Sporting CP - Galatasaray
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260909T190000Z
@@ -71,7 +71,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 1. Hafta\nSon
 END:VEVENT
 BEGIN:VEVENT
 UID:89497bdbf31ef42db985d912@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Kocaelispor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20260913T170000Z
@@ -83,7 +83,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 5. Hafta\nSonuç: 1-0\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:02986f2d0d367c337c2a008b@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Trabzonspor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20260919T170000Z
@@ -95,20 +95,19 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 6. Hafta\nSonuç: 4-0\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:190c74b37d5cbe463a31c835@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Kasımpaşa
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261009T170000Z
 DTEND:20261009T191500Z
 STATUS:CONFIRMED
-LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
-DESCRIPTION:Futbol · Trendyol Süper Lig · 7. Hafta\nKaynak: TFF (Türkiy
- e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
- =317844
+DESCRIPTION:Futbol · Trendyol Süper Lig · 7. Hafta\nSonuç: 3-1\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317844
 END:VEVENT
 BEGIN:VEVENT
 UID:0d47a8f54136faadbc66e507@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Barcelona
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261013T190000Z
@@ -120,7 +119,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 2. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:f44a67ba72b7cdf34fb8d3e8@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Gençlerbirliği - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261017T130000Z
@@ -133,7 +132,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 8. Hafta\nKaynak: TFF (Türkiy
 END:VEVENT
 BEGIN:VEVENT
 UID:bb42d9a6695e99f2007ea64a@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Lille - Galatasaray
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261021T164500Z
@@ -145,7 +144,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 3. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:11c4eafcaea0add0de5e2c47@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Fenerbahçe
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261026T183000Z
@@ -158,7 +157,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 9. Hafta\nKaynak: TFF (Türkiy
 END:VEVENT
 BEGIN:VEVENT
 UID:1adfb2a28c1164bc31c8ebd9@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Tümosan Konyaspor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261030T170000Z
@@ -171,7 +170,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 10. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:22962ae196c0b2fb25f78604@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Stuttgart
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261103T174500Z
@@ -183,7 +182,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 4. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:268c2e68a692985e368cabec@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Amed Sportif Faaliyetler
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261107T160000Z
@@ -196,7 +195,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:da5f98fb5c766d32e5d8e4f8@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Samsunspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261121T130000Z
@@ -209,7 +208,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3d5699c7c81af55c8e341e@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Aston Villa
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261124T174500Z
@@ -221,7 +220,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:d29bc510166ad08333ae9859@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Beşiktaş - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261130T180000Z
@@ -234,7 +233,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 13. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:026895cc10d1512646eac728@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Çaykur Rizespor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261204T170000Z
@@ -247,7 +246,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 14. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:022aec8cf8717419ce337763@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:AEK Athens - Galatasaray
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261208T200000Z
@@ -259,7 +258,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 6. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:334d07ba208faa5ba89ee88e@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Eyüpspor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261212T160000Z
@@ -272,7 +271,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 15. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:a259be2a7f919157dd60e95d@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Corendon Alanyaspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261219T160000Z
@@ -285,7 +284,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 16. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:7f2cc9db90d1f7d9dddd123a@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Gaziantep Futbol Kulübü - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270117
@@ -300,7 +299,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 17. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:75ef34b8bffd838ec6368642@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Feyenoord
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20270119T174500Z
@@ -312,7 +311,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 7. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:f81059ed5f591a6eaff0cb92@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Arca Çorum FK - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270124
@@ -327,7 +326,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 18. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:18be00645df2e3c5abb68d7f@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Paris - Galatasaray
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20270127T200000Z
@@ -339,7 +338,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 8. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:b990ecf46dd8c0b912b98c9e@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Erzurumspor FK
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270131
@@ -354,7 +353,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 19. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:c4107e329e5a2ff5675edc3a@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Göztepe - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270207
@@ -369,7 +368,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 20. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:0d8718ba764d2d3733a748a7@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - İstanbul Başakşehir FK
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270214
@@ -384,7 +383,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 21. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:852d0d50e60e6b41720f803a@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Kocaelispor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270221
@@ -399,7 +398,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 22. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:b1bc4e73065c06b392b6d2cf@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Trabzonspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270228
@@ -414,7 +413,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 23. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:de92249c7f64ea4d48204d40@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Kasımpaşa - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270307
@@ -429,7 +428,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 24. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:008dafde40ec836e479f253c@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Gençlerbirliği
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270314
@@ -444,7 +443,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 25. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:ce060871d9eb8be07a8fec6d@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Fenerbahçe - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270321
@@ -459,7 +458,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 26. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:95fbf307e21a10748c20bf93@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Tümosan Konyaspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270404
@@ -474,7 +473,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 27. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:ad297b0ac40683f3c825f446@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Amed Sportif Faaliyetler - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270411
@@ -489,7 +488,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 28. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:17c3eaa7648f6cfc6ac48abc@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Samsunspor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270418
@@ -504,7 +503,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 29. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:1fe0bad07adfc4c9726c64f4@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Beşiktaş
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270425
@@ -519,7 +518,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 30. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:851658c8076a4e472a95dc18@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Çaykur Rizespor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270502
@@ -534,7 +533,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 31. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:12d56a92f80514b6bbc1797d@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Eyüpspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270509
@@ -549,7 +548,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 32. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:e6478017df77e12ae3a297ae@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Corendon Alanyaspor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270516
@@ -564,7 +563,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 33. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:ab02cb52c4bb0968d1c99d74@galatasaray-calendar
-DTSTAMP:20260920T145540Z
+DTSTAMP:20261010T010504Z
 SUMMARY:Galatasaray - Gaziantep Futbol Kulübü
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270523
