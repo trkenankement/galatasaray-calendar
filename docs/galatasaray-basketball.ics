@@ -102,7 +102,9 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 7. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:fb598619dd7c3178ffb85c61@galatasaray-calendar
-DTSTAMP:20261109T010613Z
+DTSTAMP:20261115T011048Z
+LAST-MODIFIED:20261115T011048Z
+SEQUENCE:1
 SUMMARY:Biotekno Körfez Basket - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261114T150000Z
@@ -110,7 +112,8 @@ DTEND:20261114T170000Z
 STATUS:CONFIRMED
 LOCATION:Şehit Polis Recep Topaloğlu Spor Salonu\, Kocaeli
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
- \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+ \nSonuç: 82-81\nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Feder
+ asyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:9a8ff50460e61f4012c3b6ae@galatasaray-calendar
