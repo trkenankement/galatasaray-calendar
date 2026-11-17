@@ -210,14 +210,16 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 15. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:a9d374f0661c1a1a8f3e05e9@galatasaray-calendar
-DTSTAMP:20261109T010613Z
+DTSTAMP:20261117T040427Z
+LAST-MODIFIED:20261117T040427Z
+SEQUENCE:1
 SUMMARY:Glint Çayırova Belediyesi - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Atanmadı
+LOCATION:Çayırova Belediyesi Spor Kompleksi\, Kocaeli
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 16. Haft
  a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
   görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T

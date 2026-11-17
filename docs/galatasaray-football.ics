@@ -191,13 +191,15 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nSonuç: 4-3\nKaynak
 END:VEVENT
 BEGIN:VEVENT
 UID:da5f98fb5c766d32e5d8e4f8@galatasaray-calendar
-DTSTAMP:20261108T005005Z
+DTSTAMP:20261117T040427Z
+LAST-MODIFIED:20261117T040427Z
+SEQUENCE:1
 SUMMARY:Galatasaray - Samsunspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261121T130000Z
 DTEND:20261121T151500Z
 STATUS:CONFIRMED
-LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+LOCATION:Başakşehir Fatih Terim\, İstanbul
 DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
  ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
  d=317889

@@ -298,13 +298,15 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:da5f98fb5c766d32e5d8e4f8@galatasaray-calendar
-DTSTAMP:20261109T010613Z
+DTSTAMP:20261117T040427Z
+LAST-MODIFIED:20261117T040427Z
+SEQUENCE:1
 SUMMARY:Galatasaray - Samsunspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261121T130000Z
 DTEND:20261121T151500Z
 STATUS:CONFIRMED
-LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+LOCATION:Başakşehir Fatih Terim\, İstanbul
 DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
  ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
  d=317889
@@ -480,14 +482,16 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 15. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:a9d374f0661c1a1a8f3e05e9@galatasaray-calendar
-DTSTAMP:20261109T010613Z
+DTSTAMP:20261117T040427Z
+LAST-MODIFIED:20261117T040427Z
+SEQUENCE:1
 SUMMARY:Glint Çayırova Belediyesi - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Atanmadı
+LOCATION:Çayırova Belediyesi Spor Kompleksi\, Kocaeli
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 16. Haft
  a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
   görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
