@@ -50,8 +50,10 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 3. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:51ea79fd503501f397d2360a@galatasaray-calendar
-DTSTAMP:20261109T010613Z
-SUMMARY:Beşiktaş - Galatasaray
+DTSTAMP:20261121T024024Z
+LAST-MODIFIED:20261121T024024Z
+SEQUENCE:1
+SUMMARY:Beşiktaş Fuzul - Galatasaray
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261018T173000Z
 DTEND:20261018T193000Z
@@ -257,8 +259,10 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 18. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:98ff170eab3858d02f5fba5a@galatasaray-calendar
-DTSTAMP:20261109T010613Z
-SUMMARY:Galatasaray - Beşiktaş
+DTSTAMP:20261121T024024Z
+LAST-MODIFIED:20261121T024024Z
+SEQUENCE:1
+SUMMARY:Galatasaray - Beşiktaş Fuzul
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
