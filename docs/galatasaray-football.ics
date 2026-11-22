@@ -191,18 +191,17 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nSonuç: 4-3\nKaynak
 END:VEVENT
 BEGIN:VEVENT
 UID:da5f98fb5c766d32e5d8e4f8@galatasaray-calendar
-DTSTAMP:20261117T040427Z
-LAST-MODIFIED:20261117T040427Z
-SEQUENCE:1
+DTSTAMP:20261122T012849Z
+LAST-MODIFIED:20261122T012849Z
+SEQUENCE:2
 SUMMARY:Galatasaray - Samsunspor
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART:20261121T130000Z
 DTEND:20261121T151500Z
 STATUS:CONFIRMED
-LOCATION:Başakşehir Fatih Terim\, İstanbul
-DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
- ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
- d=317889
+DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nSonuç: 2-1\nKaynak
+ : TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?p
+ ageId=29&macId=317889
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3d5699c7c81af55c8e341e@galatasaray-calendar
@@ -546,14 +545,16 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 32. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:e6478017df77e12ae3a297ae@galatasaray-calendar
-DTSTAMP:20261108T005005Z
+DTSTAMP:20261122T012849Z
+LAST-MODIFIED:20261122T012849Z
+SEQUENCE:1
 SUMMARY:Corendon Alanyaspor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Alanya Oba Stadyumu\, Antalya
+LOCATION:Alanya Rgüzel Stadyumu\, Antalya
 DESCRIPTION:Futbol · Trendyol Süper Lig · 33. Hafta\nMaç saati henüz a
  çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
  nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
