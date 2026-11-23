@@ -119,7 +119,9 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:9a8ff50460e61f4012c3b6ae@galatasaray-calendar
-DTSTAMP:20261109T010613Z
+DTSTAMP:20261123T015330Z
+LAST-MODIFIED:20261123T015330Z
+SEQUENCE:1
 SUMMARY:Galatasaray - Aliağa Petkim Spor
 CATEGORIES:Galatasaray,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261122T150000Z
@@ -127,7 +129,8 @@ DTEND:20261122T170000Z
 STATUS:CONFIRMED
 LOCATION:Sinan Erdem Spor Salonu\, İstanbul
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
- \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+ \nSonuç: 81-64\nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Feder
+ asyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:5fc946c2b790c7c8a8ca99b3@galatasaray-calendar
