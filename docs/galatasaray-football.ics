@@ -382,14 +382,16 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 21. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:852d0d50e60e6b41720f803a@galatasaray-calendar
-DTSTAMP:20261108T005005Z
+DTSTAMP:20261125T105850Z
+LAST-MODIFIED:20261125T105850Z
+SEQUENCE:1
 SUMMARY:Kocaelispor - Galatasaray
 CATEGORIES:Galatasaray,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Kocaeli Stadyumu\, Kocaeli
+LOCATION:Turka Araç Muayene Kocaeli Stadyumu\, Kocaeli
 DESCRIPTION:Futbol · Trendyol Süper Lig · 22. Hafta\nMaç saati henüz a
  çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
  nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
