@@ -329,15 +329,17 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3d5699c7c81af55c8e341e@galatasaray-calendar
-DTSTAMP:20261109T010613Z
+DTSTAMP:20261125T104954Z
+LAST-MODIFIED:20261125T104954Z
+SEQUENCE:1
 SUMMARY:Galatasaray - Aston Villa
 CATEGORIES:Galatasaray,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261124T174500Z
 DTEND:20261124T200000Z
 STATUS:CONFIRMED
 LOCATION:Ali Sami Yen Spor Kompleksi\, Istanbul
-DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
- nak: UEFA
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nSon
+ uç: 1-0\nKaynak: UEFA
 END:VEVENT
 BEGIN:VEVENT
 UID:d29bc510166ad08333ae9859@galatasaray-calendar
